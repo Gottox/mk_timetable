@@ -8,7 +8,13 @@ weekdays=$(printf '%s\|' $3 | sed "s/\\\|$//")
 starthour=$4
 hours_per_month=$5
 name=$6
-free=$(curl "http://feiertage.jarmedia.de/api/?jahr=$year&nur_daten=1" | json_pp | grep -a -v "^[{}]$" | cut -d'"' -f 4)
+free="$(curl "http://feiertage.jarmedia.de/api/?jahr=$year&nur_daten=1" | json_pp | grep -a -v "^[{}]$" | cut -d'"' -f 4)
+$year-12-24
+$year-12-27
+$year-12-28
+$year-12-29
+$year-12-30
+$year-12-31"
 
 dates=$(printf "1-$month_name-$year +%s days\n" `seq 0 6` | xargs -d'\n' -n1 date -d | grep "^\($weekdays\) ")
 
