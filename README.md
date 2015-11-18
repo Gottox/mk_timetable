@@ -1,7 +1,7 @@
 mk_timetable
 ============
 
-Generates a time table. Useful for german research assistant that give a shit
+Generates a time table. Useful for german research assistants that give a shit
 about a record book
 
 ```
