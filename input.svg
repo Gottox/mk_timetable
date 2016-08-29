@@ -16,10 +16,10 @@
    width="744.09497"
    height="1052.3625"
    viewBox="0 0 744.09497 1052.3625"
-   sodipodi:docname="Stundenzettel_Mindestlohngesetz.svg"><metadata
+   sodipodi:docname="input.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,8 +34,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.89702926"
-     inkscape:cx="393.76624"
-     inkscape:cy="798.53416"
+     inkscape:cx="304.58297"
+     inkscape:cy="263.43456"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2133,7 +2133,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5342"
-           sodipodi:role="line">%BEGIN14%</tspan></text>
+           sodipodi:role="line">%DATUM14%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2146,7 +2146,7 @@
            id="tspan5346"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN15%</tspan></text>
+           style="font-size:16px">%BEGIN14%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2187,7 +2187,7 @@
            id="tspan5360"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM14%</tspan></text>
+           style="font-size:16px">%DATUM15%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2200,7 +2200,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5364"
-           sodipodi:role="line">%BEGIN16%</tspan></text>
+           sodipodi:role="line">%BEGIN15%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2241,7 +2241,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5378"
-           sodipodi:role="line">%DATUM15%</tspan></text>
+           sodipodi:role="line">%DATUM16%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2254,7 +2254,7 @@
            id="tspan5382"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN17%</tspan></text>
+           style="font-size:16px">%BEGIN16%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2295,7 +2295,7 @@
            id="tspan5396"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM16%</tspan></text>
+           style="font-size:16px">%DATUM17%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2308,7 +2308,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5400"
-           sodipodi:role="line">%BEGIN18%</tspan></text>
+           sodipodi:role="line">%BEGIN17%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2349,7 +2349,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5414"
-           sodipodi:role="line">%DATUM17%</tspan></text>
+           sodipodi:role="line">%DATUM18%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2362,7 +2362,7 @@
            id="tspan5418"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN19%</tspan></text>
+           style="font-size:16px">%BEGIN18%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2403,7 +2403,7 @@
            id="tspan5432"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM18%</tspan></text>
+           style="font-size:16px">%DATUM19%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2416,7 +2416,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5436"
-           sodipodi:role="line">%BEGIN20%</tspan></text>
+           sodipodi:role="line">%BEGIN19%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2457,7 +2457,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5450"
-           sodipodi:role="line">%DATUM19%</tspan></text>
+           sodipodi:role="line">%DATUM20%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2470,7 +2470,7 @@
            id="tspan5454"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN21%</tspan></text>
+           style="font-size:16px">%BEGIN20%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2511,7 +2511,7 @@
            id="tspan5468"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM20%</tspan></text>
+           style="font-size:16px">%DATUM21%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2524,7 +2524,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5472"
-           sodipodi:role="line">%BEGIN22%</tspan></text>
+           sodipodi:role="line">%BEGIN21%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2565,7 +2565,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5486"
-           sodipodi:role="line">%DATUM21%</tspan></text>
+           sodipodi:role="line">%DATUM22%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2578,7 +2578,7 @@
            id="tspan5490"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN23%</tspan></text>
+           style="font-size:16px">%BEGIN22%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2619,7 +2619,7 @@
            id="tspan5504"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM22%</tspan></text>
+           style="font-size:16px">%DATUM23%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2632,7 +2632,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5508"
-           sodipodi:role="line">%BEGIN24%</tspan></text>
+           sodipodi:role="line">%BEGIN23%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2673,7 +2673,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5522"
-           sodipodi:role="line">%DATUM23%</tspan></text>
+           sodipodi:role="line">%DATUM24%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2686,7 +2686,7 @@
            id="tspan5526"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN25%</tspan></text>
+           style="font-size:16px">%BEGIN24%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2727,7 +2727,7 @@
            id="tspan5540"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM24%</tspan></text>
+           style="font-size:16px">%DATUM25%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2740,7 +2740,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5544"
-           sodipodi:role="line">%BEGIN26%</tspan></text>
+           sodipodi:role="line">%BEGIN25%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2781,7 +2781,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5558"
-           sodipodi:role="line">%DATUM25%</tspan></text>
+           sodipodi:role="line">%DATUM26%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2794,7 +2794,7 @@
            id="tspan5562"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN27%</tspan></text>
+           style="font-size:16px">%BEGIN26%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2835,7 +2835,7 @@
            id="tspan5576"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM26%</tspan></text>
+           style="font-size:16px">%DATUM27%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2848,7 +2848,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5580"
-           sodipodi:role="line">%BEGIN28%</tspan></text>
+           sodipodi:role="line">%BEGIN27%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2889,7 +2889,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5594"
-           sodipodi:role="line">%DATUM27%</tspan></text>
+           sodipodi:role="line">%DATUM28%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2902,7 +2902,7 @@
            id="tspan5598"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN29%</tspan></text>
+           style="font-size:16px">%BEGIN28%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2943,7 +2943,7 @@
            id="tspan5612"
            x="39.240623"
            y="-707.22327"
-           style="font-size:16px">%DATUM28%</tspan></text>
+           style="font-size:16px">%DATUM29%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -2956,7 +2956,7 @@
            y="-707.22327"
            x="177.47469"
            id="tspan5616"
-           sodipodi:role="line">%BEGIN30%</tspan></text>
+           sodipodi:role="line">%BEGIN29%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2997,7 +2997,7 @@
            y="-707.22327"
            x="39.240623"
            id="tspan5630"
-           sodipodi:role="line">%DATUM29%</tspan></text>
+           sodipodi:role="line">%DATUM30%</tspan></text>
 <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3010,7 +3010,7 @@
            id="tspan5634"
            x="177.47469"
            y="-707.22327"
-           style="font-size:16px">%BEGIN31%</tspan></text>
+           style="font-size:16px">%BEGIN30%</tspan></text>
 <text
          transform="scale(1,-1)"
          sodipodi:linespacing="125%"
@@ -3038,4 +3038,3 @@
            y="-707.22327"
            style="font-size:16px">%ZEIT30%</tspan></text>
 </g></g></svg>
-
